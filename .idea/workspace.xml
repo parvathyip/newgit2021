@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48c6dad7-fbfd-45e1-a22a-f30787517599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/apps/templates/home/basic_elements_leave.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/apps/static/assets/images/logo.svg" beforeDir="false" />
+    <list default="true" id="48c6dad7-fbfd-45e1-a22a-f30787517599" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/accounts/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/accounts/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/home/basic-table.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/home/basic-table.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/home/basic_elements.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/home/basic_elements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/apps/templates/home/basic_elements_leave.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/home/basic_elements_leave.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/home/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/home/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/home/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/home/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/apps/templates/includes/navigation.html" beforeDir="false" afterPath="$PROJECT_DIR$/apps/templates/includes/navigation.html" afterDir="false" />
@@ -47,7 +52,9 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,5 +77,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
